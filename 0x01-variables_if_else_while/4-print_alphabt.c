@@ -16,7 +16,7 @@ int main(void)
 	putchar(h);
 	h++;
 }
-	else 
+	else
 {
 	h++;
 }
