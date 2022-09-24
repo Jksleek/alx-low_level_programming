@@ -5,6 +5,8 @@
  * @n: number to be printed
  */
 
+int main(void)
+
 void print_number(int n)
 {
 	unsigned int tens, digit, positive = n;
